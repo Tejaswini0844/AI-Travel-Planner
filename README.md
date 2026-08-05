@@ -28,10 +28,6 @@ Tell it your city, number of days, and budget per day, and it builds a full itin
 - dotenv (environment variable management)
 - CORS
 
-## 📸 Screenshots
-
-*(Add screenshots of the Landing page, Plan Form, and Itinerary page here)*
-
 ## 📁 Project Structure
 
 ```
@@ -78,6 +74,6 @@ ai-travel-planner/
 
 ## 📄 License & Credits
 
-Background illustrations used under free license from Vecteezy — attribution: *(add artist credit here before publishing)*.
+Background illustrations used under free license from Vecteezy.
 
 Built as a personal project to explore full-stack development with AI integration.
